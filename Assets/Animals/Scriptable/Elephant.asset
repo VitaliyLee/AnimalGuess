@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30fd37ed99efbd8429eebca8a07cdf9d, type: 3}
+  m_Name: Elephant
+  m_EditorClassIdentifier: 
+  cardName: "\u0421\u043B\u043E\u043D"
+  cardAnimalImage: {fileID: 21300000, guid: 67377cdd93c4fff49970fd3bbc8637c5, type: 3}
+  cardAudio: {fileID: 8300000, guid: b287eb42a4280144ea5889a5a64bf258, type: 3}

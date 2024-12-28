@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30fd37ed99efbd8429eebca8a07cdf9d, type: 3}
+  m_Name: Parrot
+  m_EditorClassIdentifier: 
+  cardName: "\u041F\u043E\u043F\u0443\u0433\u0430\u0439"
+  cardAnimalImage: {fileID: 21300000, guid: 97caf7a8993d890488a254a4701b806c, type: 3}
+  cardAudio: {fileID: 8300000, guid: 47eae1f7f31e1a14bbd22481faa737ef, type: 3}
