@@ -14,6 +14,7 @@ public class LearnCard : MonoBehaviour
     private Sprite cardAnimalImage;
     private AudioClip cardAudio;
 
+    //Свойства нужны что бы можно было организовать доступ к полям безопасно
     public AnimalCardData Data { set => animalData = value; }
     public Sprite AnimalImage { get => cardAnimalImage; }
     public AudioClip Audio { get => cardAudio; }
