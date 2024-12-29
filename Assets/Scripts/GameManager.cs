@@ -91,7 +91,7 @@ public class GameManager : MonoBehaviour
             {
                 //canShowAdd = false;
                 
-                ShowFullscreen();
+                //ShowFullscreen();
             }
         }
         levelCount++;
